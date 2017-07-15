@@ -1,1 +1,1 @@
-{ "require": { "php": "7.*" } }
+{ "require": { "php": "7.*", "wp-cli/wp-cli": "^1.0" } }
