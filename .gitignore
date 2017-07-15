@@ -1,6 +1,8 @@
 vendor/*
 .env
 *.log
+wp-cli.yml
+
 wp-content/advanced-cache.php
 wp-content/backup-db/
 wp-content/backups/
